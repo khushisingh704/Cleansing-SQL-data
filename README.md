@@ -1,4 +1,13 @@
-1. Remove Duplicates
--- 2. Standardize the data
--- 3. Null value or blank values fix
--- 4. Remove unnecessary  columns
+<html>
+  <body>
+  <b> Using sql queries to clean dataset and standardize it, some of the operation performed are: </b> 
+    <ul> 
+<li> Remove Duplicates </li>
+<li>Standardize the data </li>
+<li>Null value or blank values fix </li>
+<li> Remove unnecessary  columns </li> 
+    </ul>
+    </body>
+</html>
+
+
